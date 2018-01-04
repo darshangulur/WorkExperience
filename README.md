@@ -39,9 +39,7 @@ Frameworks: Foundation, UIKit, CoreData, CoreLocation, MapKit, JASON, AVFoundati
 ### Senior Software Engineer, Ness Technologies, Bangalore, India	                                             07/12 – 10/13
 #### Developed and managed iOS applications for Perform Group across platforms for the UK, middle–east and APAC regions
 
-* Created and owned sport and league follower 
-[applications] (https://itunes.apple.com/us/app/soccerway/id1193234141?mt=8 "Soccer Apps")
-with live streaming of events, news, video on demand, Electronic Program Guide, Single Sign on and in app subscription to buy team merchandise
+* Created and owned sport and league follower [applications](https://itunes.apple.com/us/app/soccerway/id1193234141?mt=8 "Soccer Apps") with live streaming of events, news, video on demand, Electronic Program Guide, Single Sign on and in app subscription to buy team merchandise
 
 * Developed re-skinnable solutions for white labeled iOS projects with single and multiple targets, working with product & business owners for the entire lifecycle of the project, aided in obtaining end-to-end understanding of the project
 
