@@ -7,8 +7,6 @@
 
 * Wrote unit test cases with XCTest and Nimble test frameworks and used OHHTTPStubs to mock network requests. Achieved more than 50% test coverage across the project, resulting in highly testable network, data access and view model layers.
 
-* [Highlighted Placeholder for describing one or two frameworks being asked for in Job Description and used in this project. The description should be in the following format: Action, Implementation and Result. If multiple frameworks for, then description should be split into multiple items.]
-
 * Implemented UI and Auto layout 100% in code, providing easiest way to apply style and extreme reusability.
 
 * Implemented Continuous Integration-Continuous Delivery (CI/CD) build process between BitBucket, Jenkins with fastlane build scripts and Hockey App, efficiently tracking multiple versions of builds across environments.
@@ -38,7 +36,7 @@ Tools: Xcode, Source Tree, Bitbucket, JIRA, Carthage, Jenkins, fastlane, Hockey 
 
 Frameworks: Foundation, UIKit, CoreData, CoreLocation, MapKit, JASON, AVFoundation
 
-<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT1.webp" width="200" height="350" / <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT2.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT3.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT4.webp" width="200" height="350" />
+<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT1.webp" width="200" height="350" /><img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT2.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT3.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT4.webp" width="200" height="350" />
 
 
 ### Senior Software Engineer, Ness Technologies, Bangalore, India	                                             07/12 – 10/13
