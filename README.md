@@ -50,7 +50,7 @@ Frameworks: Foundation, UIKit, CoreData, CoreLocation, MapKit, JASON, AVFoundati
 
 Ex: Frameworks for video player, calendar, segue-multiple storyboards, custom tabs, local keychain store, localization, custom controls etc.
 
-<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT1.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT2.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT3.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT4.webp" width="200" height="350" />
+<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Perform/P1.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Perform/P2.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Perform/P3.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Perform/P4.jpg" width="200" height="350" />
 
 ### Software Engineer, Ness Technologies, Bangalore, India	                                                     07/10 - 06/12
 
