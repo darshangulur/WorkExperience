@@ -24,6 +24,8 @@
 Frameworks: Realm, AFNetworking, IGListKit, ThreatMetrix, Observables, TinyConstraints, Taplytics, mParticle, Bluetooth
 Tools: Xcode, Source Tree, Bitbucket, JIRA, Carthage, Jenkins, fastlane, Hockey App, Charles Proxy, Swagger, Amplitude, Slack
 
+<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA1.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA2.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA3.jpg" width="200" height="350" /> <img src="https://lh3.googleusercontent.com/LeHlNXj0JOhBzruKEkzRDBqAjogMhuXWyUVmVPJ0U6fv8SXSGmNSwkJTlfvf1pJtnpg=h900-rw" width="200" height="350" />
+
 ### Consultant, Capgemini, Bangalore, India	                                                                     11/13 – 12/14
 #### Responsible for developing & Managing SUP (Sybase Unwired Platform) and Rest web services driven Enterprise Mobility solutions on iOS and Android platforms for clients viz. Procter & Gamble, John Deere, Ikea, J&J and SO.IN.
 
