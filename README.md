@@ -24,7 +24,7 @@
 Frameworks: Realm, AFNetworking, IGListKit, ThreatMetrix, Observables, TinyConstraints, Taplytics, mParticle, Bluetooth
 Tools: Xcode, Source Tree, Bitbucket, JIRA, Carthage, Jenkins, fastlane, Hockey App, Charles Proxy, Swagger, Amplitude, Slack
 
-<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA1.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA2.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA3.jpg" width="200" height="350" /> <img src="https://lh3.googleusercontent.com/LeHlNXj0JOhBzruKEkzRDBqAjogMhuXWyUVmVPJ0U6fv8SXSGmNSwkJTlfvf1pJtnpg=h900-rw" width="200" height="350" />
+<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA1.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA2.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA3.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA4.webp" width="200" height="350" />
 
 ### Consultant, Capgemini, Bangalore, India	                                                                     11/13 – 12/14
 #### Responsible for developing & Managing SUP (Sybase Unwired Platform) and Rest web services driven Enterprise Mobility solutions on iOS and Android platforms for clients viz. Procter & Gamble, John Deere, Ikea, J&J and SO.IN.
@@ -37,6 +37,9 @@ Tools: Xcode, Source Tree, Bitbucket, JIRA, Carthage, Jenkins, fastlane, Hockey 
 * Reports Viewer Project: Developed an iPad application that reads MS Excel input files via REST web services and generates dynamic, interactive, 2-way scrollable grid dashboard with hierarchical design, which is achieved in a unique way using two collection views at right angles to scroll together both horizontally and vertically. Search to view date specific data, filter data based on tags, and sort by tapping on column headers. The application eliminated the manual work of data analysis by 100% and brought down analysis and actionable time for each report from 10 minutes to less than 30 seconds.
 
 Frameworks: Foundation, UIKit, CoreData, CoreLocation, MapKit, JASON, AVFoundation
+
+<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT1.webp" width="200" height="350" / <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT2.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT3.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT4.webp" width="200" height="350" />
+
 
 ### Senior Software Engineer, Ness Technologies, Bangalore, India	                                             07/12 – 10/13
 #### Developed and managed iOS applications for Perform Group across platforms for the UK, middle–east and APAC regions
