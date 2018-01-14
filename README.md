@@ -36,7 +36,7 @@ Tools: Xcode, Source Tree, Bitbucket, JIRA, Carthage, Jenkins, fastlane, Hockey 
 
 Frameworks: Foundation, UIKit, CoreData, CoreLocation, MapKit, JASON, AVFoundation
 
-<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT1.webp" width="200" height="350" /><img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT2.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT3.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT4.webp" width="200" height="350" />
+<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT1.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT2.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT3.webp" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/WINGiT/WINGiT4.webp" width="200" height="350" />
 
 
 ### Senior Software Engineer, Ness Technologies, Bangalore, India	                                             07/12 – 10/13
