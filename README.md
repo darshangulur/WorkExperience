@@ -1,4 +1,22 @@
-## WorkExperience - Projects
+## WorkExperience
+
+### Skills
+<b>Programming Languages (Experience in years):</b> Swift (>1), Objective-C (4), Core Java (6), Python (<1), Web technologies (<1)
+
+<b>iOS Frameworks:</b> Most of the commonly used apple frameworks, and Realm, SwiftyJSON, AFNetworking, IGListKit, Result,
+TrustDefender ThreatMetrix Identity Management, Lottie, Observables, Closures, TinyConstraints, XCTest, OHTTPStubs,
+RxSwift, Taplytics, mParticle, Google Analytics, Bolts, SwiftyBeaver, First Data, Visa Checkout, BLE-based indoor positioning
+frameworks, Speech-to-text (local and remote), Chatbot integrations
+
+<b>Design Patterns:</b> Custom-VIPER, Observable, MVC, MVVM, Factory, Protocol-Delegate, Category and Extensions,
+Target-action, KVO, Notification, Singleton
+
+<b>Tools:</b> Source Tree, Bitbucket, JIRA, Carthage, Jenkins, FastLane, Sketch and Invision, Swagger, Amplitude, Slack, cocoapods, Hockey App - Microsoft App Center, vim
+
+#### Other Skills
+<b>Distributed Systems:</b> Pastry, GFS (Google File System), Chord, Random Walk, Flooding, PlanetLab & DeterLab deployments
+
+<b>Data Sciences:</b> Apache Hadoop, MapReduce, HBase, AWS (EC2, EMR, S3), Storm, Spark, Dist. RPC, Recommender Systems
 
 ### Senior Consultant, Capgemini, Atlanta, GA	                                                                 06/16 – Present
 #### Part of the iOS development team for Chick-fil-A (CFA) flagship [application](https://goo.gl/B86zNS "Chick-fil-A Flagship App") (4+ rating) catering to a 2m+ active user base, #1 on Food & Drink Category on multiple occasions and consistently in top 10, Highest ranking - #37 across all App store categories
@@ -23,6 +41,8 @@ Frameworks: Realm, AFNetworking, IGListKit, ThreatMetrix, Observables, TinyConst
 Tools: Xcode, Source Tree, Bitbucket, JIRA, Carthage, Jenkins, fastlane, Hockey App, Charles Proxy, Swagger, Amplitude, Slack
 
 <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA1.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA2.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA3.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA4.webp" width="200" height="350" />
+
+
 
 ### Consultant, Capgemini, Bangalore, India	                                                                     11/13 – 12/14
 #### Responsible for developing & Managing SUP (Sybase Unwired Platform) and Rest web services driven Enterprise Mobility solutions on iOS and Android platforms for clients viz. Procter & Gamble, John Deere, Ikea, J&J and SO.IN.
