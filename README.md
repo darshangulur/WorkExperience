@@ -3,10 +3,7 @@
 ### Skills
 <b>Programming Languages (Experience in years):</b> Swift (>1), Objective-C (4), Core Java (6), Python (<1), Web technologies (<1)
 
-<b>iOS Frameworks:</b> Most of the commonly used apple frameworks, and Realm, SwiftyJSON, AFNetworking, IGListKit, Result,
-TrustDefender ThreatMetrix Identity Management, Lottie, Observables, Closures, TinyConstraints, XCTest, OHTTPStubs,
-RxSwift, Taplytics, mParticle, Google Analytics, Bolts, SwiftyBeaver, First Data, Visa Checkout, BLE-based indoor positioning
-frameworks, Speech-to-text (local and remote), Chatbot integrations
+<b>iOS Frameworks:</b> UIKit, Foundation, CoreLocation, MapKit, CoreData, AVFoundation, HealthKit, WebKit and Realm, SwiftyJSON, AFNetworking, IGListKit, Result, TrustDefender ThreatMetrix Identity Management, Lottie, Observables, Closures, TinyConstraints, XCTest, OHTTPStubs, RxSwift, Taplytics, mParticle, Google Analytics, Bolts, SwiftyBeaver, First Data, Visa Checkout, BLE-based indoor positioning frameworks, Speech-to-text (local and remote), Chatbot integrations
 
 <b>Design Patterns:</b> Custom-VIPER, Observable, MVC, MVVM, Factory, Protocol-Delegate, Category and Extensions,
 Target-action, KVO, Notification, Singleton
