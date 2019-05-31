@@ -16,7 +16,7 @@ Target-action, KVO, Notification, Singleton
 <b>Data Sciences:</b> Apache Hadoop, MapReduce, HBase, AWS (EC2, EMR, S3), Storm, Spark, Dist. RPC, Recommender Systems
 
 ### Senior iOS Engineer, Lucid Infosystems, Dallas, TX/ Sunnyvale, CA	                                        08/18 – Present
-#### Part of the Customer Journey team for Hilton Worldwide Inc., working as a Module Lead on the Hilton Honors [application](https://itunes.apple.com/us/app/hilton-honors/id635150066?mt=8 "HHonors App") project.
+#### Part of the Customer Journey team for Hilton Worldwide Inc., working as a Module Lead on the Hilton Honors [application](https://itunes.apple.com/us/app/hilton-honors/id635150066?mt=8 "HHonors App").
 * Worked on Digital Key and Connected Room projects. Implemented using MVVM architecture, the modules extensively use the CoreBluetooth and 3rd party frameworks to range, connect and interact with peripherals. Completely built on RxSwift, the declarative approach helped monitor and react to various Bluetooth connection states & apply seamless data transformations.
 * Analyzed code coverage on the Digital Key project with the help of Xcode Code Coverage tool and a SonarQube instance. Wrote over 400 test cases using XCTest and Nimble test frameworks to increase the coverage to over 80% across all layers.
 
