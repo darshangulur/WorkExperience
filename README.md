@@ -23,7 +23,7 @@ Target-action, KVO, Notification, Singleton
 Frameworks: ReactSwift, Bluetooth, TRFramework, Nimble, XCTest, WatchKit, SVGKit, GoogleMaps
 Tools: Xcode, Source Tree, Bitbucket, JIRA, Cocoapods, Jenkins, fastlane, Hockey App, Charles Proxy, Slack, Webex
 
-<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Hilton/Hilton1.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Hilton/Hilton2.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Hilton/Hilton3.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Hilton/Hilton4.jpg" width="200" height="350" />
+<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Hilton/Hilton1.jpg" width="159" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Hilton/Hilton2.jpg" width="159" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Hilton/Hilton3.jpg" width="159" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Hilton/Hilton4.jpg" width="159" height="350" />
 
 ### Senior Consultant, Capgemini, Atlanta, GA	                                                                 06/16 – Present
 #### Part of the iOS development team for Chick-fil-A (CFA) flagship [application](https://goo.gl/B86zNS "Chick-fil-A Flagship App") (4+ rating) catering to a 2m+ active user base, #1 on Food & Drink Category on multiple occasions and consistently in top 10, Highest ranking - #37 across all App store categories
