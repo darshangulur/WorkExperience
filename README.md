@@ -20,7 +20,7 @@ Target-action, KVO, Notification, Singleton
 * Worked on Digital Key and Connected Room projects. Implemented using MVVM architecture, the modules extensively use the CoreBluetooth and 3rd party frameworks to range, connect and interact with peripherals. Completely built on RxSwift, the declarative approach helped monitor and react to various Bluetooth connection states & apply seamless data transformations.
 * Analyzed code coverage on the Digital Key project with the help of Xcode Code Coverage tool and a SonarQube instance. Wrote over 400 test cases using XCTest and Nimble test frameworks to increase the coverage to over 80% across all layers.
 
-Frameworks: ReactSwift, Bluetooth, TRFramework, Nimble, XCTest, WatchKit, SVGKit, GoogleMaps
+Frameworks: ReactSwift, Bluetooth, TRFramework, Nimble, XCTest, WatchKit, SVGKit, GoogleMaps\n
 Tools: Xcode, Source Tree, Bitbucket, JIRA, Cocoapods, Jenkins, fastlane, Hockey App, Charles Proxy, Slack, Webex
 
 <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Hilton/Hilton1.jpg" width="175" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Hilton/Hilton2.jpg" width="175" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Hilton/Hilton3.jpg" width="175" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Hilton/Hilton4.jpg" width="175" height="350" />
