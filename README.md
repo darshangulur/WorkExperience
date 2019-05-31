@@ -1,7 +1,7 @@
 ## WorkExperience
 
 ### Skills
-<b>Programming Languages (Experience in years):</b> Swift (>1), Objective-C (4), Core Java (6), Python (<1), Web technologies (<1)
+<b>Programming Languages (Experience in years):</b> Swift (>2), Objective-C (5), Core Java (6), Python (<1), Web technologies (<1)
 
 <b>iOS Frameworks:</b> UIKit, Foundation, CoreLocation, MapKit, CoreData, AVFoundation, HealthKit, WebKit and Realm, SwiftyJSON, AFNetworking, IGListKit, Result, TrustDefender ThreatMetrix Identity Management, Lottie, Observables, Closures, TinyConstraints, XCTest, OHTTPStubs, RxSwift, Taplytics, mParticle, Google Analytics, Bolts, SwiftyBeaver, First Data, Visa Checkout, BLE-based indoor positioning frameworks, Speech-to-text (local and remote), Chatbot integrations
 
@@ -14,6 +14,16 @@ Target-action, KVO, Notification, Singleton
 <b>Distributed Systems:</b> Pastry, GFS (Google File System), Chord, Random Walk, Flooding, PlanetLab & DeterLab deployments
 
 <b>Data Sciences:</b> Apache Hadoop, MapReduce, HBase, AWS (EC2, EMR, S3), Storm, Spark, Dist. RPC, Recommender Systems
+
+### Senior iOS Engineer, Lucid Infosystems, Dallas, TX/ Sunnyvale, CA	                                        08/18 – Present
+#### Part of the Customer Journey team for Hilton Worldwide Inc., working as a Module Lead on the Hilton Honors [application](https://itunes.apple.com/us/app/hilton-honors/id635150066?mt=8 "HHonors App") project.
+* Worked on Digital Key and Connected Room projects. Implemented using MVVM architecture, the modules extensively use the CoreBluetooth and 3rd party frameworks to range, connect and interact with peripherals. Completely built on RxSwift, the declarative approach helped monitor and react to various Bluetooth connection states & apply seamless data transformations.
+* Analyzed code coverage on the Digital Key project with the help of Xcode Code Coverage tool and a SonarQube instance. Wrote over 400 test cases using XCTest and Nimble test frameworks to increase the coverage to over 80% across all layers.
+
+Frameworks: ReactSwift, Bluetooth, TRFramework, Nimble, XCTest, WatchKit, SVGKit, GoogleMaps
+Tools: Xcode, Source Tree, Bitbucket, JIRA, Cocoapods, Jenkins, fastlane, Hockey App, Charles Proxy, Slack, Webex
+
+<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA1.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA2.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA3.jpg" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/CFA/CFA4.webp" width="200" height="350" />
 
 ### Senior Consultant, Capgemini, Atlanta, GA	                                                                 06/16 – Present
 #### Part of the iOS development team for Chick-fil-A (CFA) flagship [application](https://goo.gl/B86zNS "Chick-fil-A Flagship App") (4+ rating) catering to a 2m+ active user base, #1 on Food & Drink Category on multiple occasions and consistently in top 10, Highest ranking - #37 across all App store categories
