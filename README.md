@@ -1,7 +1,7 @@
 ## WorkExperience
 
 ### Skills
-<b>Programming Languages (Experience in years):</b> Swift (>2), Objective-C (5), Core Java (6), Python (<1), Web technologies (<1)
+<b>Programming Languages (Experience in years):</b> Swift (>3), Objective-C (6), Core Java (6), Python (<1), Web technologies (<1)
 
 <b>iOS Frameworks:</b> UIKit, Foundation, CoreLocation, MapKit, CoreData, AVFoundation, HealthKit, WebKit and Realm, VariantKit, fastlane, SwiftyJSON, AFNetworking, IGListKit, Result, TrustDefender ThreatMetrix Identity Management, Lottie, Observables, Closures, TinyConstraints, XCTest, OHTTPStubs, RxSwift, Taplytics, mParticle, Google Analytics, Bolts, SwiftyBeaver, First Data, Visa Checkout, BLE-based indoor positioning frameworks, Speech-to-text (local and remote), Chatbot integrations
 
