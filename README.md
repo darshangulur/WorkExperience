@@ -3,12 +3,11 @@
 ### Skills
 <b>Programming Languages (Experience in years):</b> Swift (>3), Objective-C (6), Core Java (6), Python (<1), Web technologies (<1)
 
-<b>iOS Frameworks:</b> UIKit, Foundation, RxSwift, CoreLocation, MapKit, CoreData, AVFoundation, HealthKit, WebKit and Realm, VariantKit, fastlane, SwiftyJSON, AFNetworking, IGListKit, Result, TrustDefender ThreatMetrix Identity Management, Lottie, Observables, Closures, TinyConstraints, XCTest, OHTTPStubs, RxSwift, Taplytics, mParticle, Google Analytics, Bolts, SwiftyBeaver, First Data, Visa Checkout, BLE-based indoor positioning frameworks, Speech-to-text (local and remote)
+<b>iOS Frameworks:</b> UIKit, Foundation, RxSwift, CoreLocation, MapKit, CoreData, AVFoundation, HealthKit, WebKit and Realm, XCTest, OHTTPStubs, RxSwift, Interstellar (Observables), VariantKit (a/b tests), AFNetworking, SwiftyJSON, IGListKit, Result, TrustDefender ThreatMetrix Identity Management, Lottie, Closures, TinyConstraints, Taplytics, mParticle, Google Analytics, Visa Checkout, BLE-based indoor positioning frameworks, Speech-to-text (local and remote)
 
-<b>Design Patterns:</b> Custom-VIPER, Observable, MVC, MVVM, Factory, Protocol-Delegate, Category and Extensions,
-Target-action, KVO, Notification, Singleton
+<b>Design Patterns:</b> Custom-VIPER, MVVM, React based (Observables), MVC, Factory, Protocol oriented, Category and Extensions, Target action, KVO, Notification (one to many), Singleton
 
-<b>Tools:</b> Source Tree, Bitbucket, JIRA, Carthage, Jenkins, fastlane, Maxymiser, Apteligent, Sketch and Invision, Swagger, Amplitude, Slack, cocoapods, Hockey App - Microsoft App Center, vim
+<b>Tools:</b> Sourcetree, Atlassian tools like JIRA, Confluence and Bitbucket, CocoaPods, Carthage, Jenkins, fastlane, Maxymiser, Apteligent, Zeplin, Sketch and Invision, Swagger, Amplitude, Microsoft Teams, Slack, Hockey App - Microsoft App Center, vim
 
 #### Other Skills
 <b>Distributed Systems:</b> Pastry, GFS (Google File System), Chord, Random Walk, Flooding, PlanetLab & DeterLab deployments
