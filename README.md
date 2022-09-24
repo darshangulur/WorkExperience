@@ -5,7 +5,7 @@
 
 <b>iOS Frameworks:</b> Foundation, Combine, SwiftUI, UIKit, CoreLocation, MapKit, CoreData, AVFoundation, HealthKit, WebKit and Realm, SwiftyJSON, AFNetworking, XCTest, OHTTPStubs, RxSwift, TinyConstraints, IGListKit, Identity Management: Akamai & TrustDefender ThreatMetrix, Lottie, Observables, Closures, Taplytics, mParticle, Google Analytics, Bolts, SwiftyBeaver, First Data, Visa Checkout, BLE-based indoor positioning frameworks, Speech-to-text (local and remote), Chatbot integrations
 
-<b>Design Patterns:</b> Flow (MVVM + UDF), Custom-VIPER, Observable, MVC, MVVM, Factory, Protocol-Delegate, Category and Extensions, Target-action, KVO, Notification, Singleton
+<b>Design Patterns:</b> TCA, Flow (MVVM + UDF), Custom-VIPER, Observable, MVC, MVVM, Factory, Protocol-Delegate, Category and Extensions, Target-action, KVO, Notification, Singleton
 
 <b>Tools:</b> Source Tree, Bitbucket, JIRA, cocoapods, Carthage, Jenkins, FastLane, Zeplin, Sketch and Invision, Swagger, Amplitude, MS Teams, Slack, Hockey App - Microsoft App Center, vim
 
