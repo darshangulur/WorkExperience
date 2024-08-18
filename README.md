@@ -28,9 +28,7 @@ Frameworks: Combine, SwiftUI, Foundation, UIKit, BluetoothLE, XCTest, CoreData, 
 Tools: Xcode, SPM, CocoaPods, Charles Proxy, GitHub, Sourcetree, CI/CD scripts, fastlane, Slack, MS Teams, Figma, Atlassian Tools
 
 
-<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Porsche1.png" width="374" height="174" />
-<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Porsche2.png" width="374" height="174" />
-<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Porsche3.png" width="374" height="174" />
+<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Porsche1.png" width="374" height="174" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Porsche2.png" width="374" height="174" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Porsche3.png" width="374" height="174" />
 
 
 ### Senior iOS Engineer, Lucid Infosystems, Dallas, TX/ Sunnyvale, CA                                            08/18 – 02/23
