@@ -28,6 +28,9 @@ Frameworks: Combine, SwiftUI, Foundation, UIKit, BluetoothLE, XCTest, CoreData, 
 Tools: Xcode, SPM, CocoaPods, Charles Proxy, GitHub, Sourcetree, CI/CD scripts, fastlane, Slack, MS Teams, Figma, Atlassian Tools
 
 
+<img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Porsche1.png" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Porsche2.png" width="200" height="350" /> <img src="https://github.com/darshangulur/WorkExperience/blob/master/Assets/Porsche3.png" width="200" height="350" />
+
+
 ### Senior iOS Engineer, Lucid Infosystems, Dallas, TX/ Sunnyvale, CA                                            08/18 – 02/23
 #### Part of the Customer Journey team for Hilton Worldwide Inc., working as a Module Lead on the Hilton Honors [application](https://itunes.apple.com/us/app/hilton-honors/id635150066?mt=8 "HHonors App") project, catering to a 4m+ active user base. The app was awarded #1 Hotel Brand App at World Travel Awards.
 * Architected Digital Key Sharing feature using Flow design pattern, combining concepts from MVVM and UDF. Used reactive programming and dependency injection techniques. Created highly testable and reusable layers with >80% test coverage. It’s an industry first feature and helped increase 100k+ Digital Key usage in the first month after rollout.
