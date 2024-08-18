@@ -14,7 +14,21 @@
 
 <b>Data Sciences:</b> Apache Hadoop, MapReduce, HBase, AWS (EC2, EMR, S3), Storm, Spark, Dist. RPC, Recommender Systems
 
-### Senior iOS Engineer, Lucid Infosystems, Dallas, TX/ Sunnyvale, CA                                            08/18 – Present
+### Principal iOS Engineer, Porsche Digital, Palo Alto, CA                                                      03/23 – Present
+#### Leading a team of 5 iOS engineers including 3 direct reports, developing My Porsche CarPlay [application](https://apps.apple.com/us/app/my-porsche/id1542743354), catering to 60K+ daily active users. Porsche is the first vehicle manufacturer to integrate vehicle functions within an app in Apple CarPlay.
+* Architected and developed CarPlay features using MVVM Architecture. Developed reusable vehicle engineering frameworks using modular architecture and integrated them via SPM. Used dependency injection techniques to create highly testable and reusable layers with >30% test coverage. Instilled the team with a culture of writing unit tests for every code change.
+* Proposed and architected a framework to abstract out all vehicle related communication. Defined the API interface using Delegate design pattern to allow flexibility for clients to manage different connector types. They interact with corresponding vehicle engineering framework to scan, discover, connect, and exchange information with the vehicle. This allows easy maintenance of the vehicle interaction code and provides a pattern to integrate future architectures without client-side changes.
+* Developed proof-of-concepts for next generation CarPlay i.e. Ferrite. Created light weight applications using AppClips template to interact with the vehicle without ever downloading the full-size app, which has led to 5k+ new user sign ups.
+* Investigated app store feedback and crash reports, used logging info, Network Link Conditioner tool and Xcode Instruments and brought down avg. monthly unique crash count from double digits to below 10, which is an all-time low for this project.
+* Used SonarQube instance to conduct static code analysis to identify potential code vulnerabilities and fixed them.
+* Onboarded and mentored team members on the new architecture and iOS frameworks such as Combine and Swift. Actively participated in mob sessions and resolved blockers for the team aiding quicker resolutions and developer productivity.
+
+
+Frameworks: Combine, SwiftUI, Foundation, UIKit, BluetoothLE, XCTest, CoreData, Vehicle Engineering, Instabug, Firebase
+Tools: Xcode, SPM, CocoaPods, Charles Proxy, GitHub, Sourcetree, CI/CD scripts, fastlane, Slack, MS Teams, Figma, Atlassian Tools
+
+
+### Senior iOS Engineer, Lucid Infosystems, Dallas, TX/ Sunnyvale, CA                                            08/18 – 02/23
 #### Part of the Customer Journey team for Hilton Worldwide Inc., working as a Module Lead on the Hilton Honors [application](https://itunes.apple.com/us/app/hilton-honors/id635150066?mt=8 "HHonors App") project, catering to a 4m+ active user base. The app was awarded #1 Hotel Brand App at World Travel Awards.
 * Architected Digital Key Sharing feature using Flow design pattern, combining concepts from MVVM and UDF. Used reactive programming and dependency injection techniques. Created highly testable and reusable layers with >80% test coverage. It’s an industry first feature and helped increase 100k+ Digital Key usage in the first month after rollout.
 * Implemented a/b tests using Maxymiser tool to control navigation flows based on a test split ratio. I used additive programming technique, built gating layers to control user experience using multiple gates viz. config file, variants and feature flags. This helped business evaluate the usage pattern and drive 1M+ increase in Digital Key usage per year.
